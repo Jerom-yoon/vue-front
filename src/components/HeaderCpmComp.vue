@@ -1,0 +1,25 @@
+<template>
+  <header-cpm>
+      <header class="header">
+        <div class="header__logo">
+            <a href="#">
+                <h1>GLAD</h1>
+                <p>YEOUIDO</p>
+            </a>
+        </div>
+        <div class="header__gnb">
+            <ul>
+                <li><a href="#">OVERVIEW</a></li>
+                <li><a href="#">ACCOMMODATION</a></li>
+                <li><a href="#">DINING & BAR</a></li>
+                <li><a href="#">WEDDING & MEETING</a></li>
+                <li><a href="#">FACILITIES</a></li>
+                <li><a href="#">SPECIAL OFFERS</a></li>
+                <li><a href="#">RESERVATION</a></li>
+            </ul>
+        </div>
+
+      </header>
+    
+  </header-cpm>
+</template>
